@@ -3,7 +3,7 @@
 
 <h2>About Me</h2>
 <p> Hello!!!! </p>
-<img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api?username=catathenya&show_icons=true&theme=dracula"/>
 
 
 <h2>Latest Tweets</h2>
