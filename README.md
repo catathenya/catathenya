@@ -3,7 +3,9 @@
 
 <h2>About Me</h2>
 <p> Hello!!!! </p>
-<p> Eternal orbit. </p>
+<img src="https://github-readme-stats.vercel.app/api?username=catathenya&show_icons=true"/>
+
+
 
 <h2>Latest Tweets</h2>
 <p><a href="https://twitter.com/catathenya"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=catathenya&amp;layout=wide" alt="github-readme-twitter"></a></p>
