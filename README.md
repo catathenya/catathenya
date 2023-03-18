@@ -3,7 +3,7 @@
 
 <h2>About Me</h2>
 <p> Hello!!!! </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=catathenya"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=catathenya&layout=compact"/>
 
 <h2>Latest Tweets</h2>
 <p><a href="https://twitter.com/catathenya"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=catathenya&amp;layout=wide" alt="github-readme-twitter"></a></p>
